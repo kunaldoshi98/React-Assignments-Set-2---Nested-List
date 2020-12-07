@@ -18,3 +18,5 @@ function City({ name, towns, index }) {
     </li>
   );
 }
+
+export default City;
